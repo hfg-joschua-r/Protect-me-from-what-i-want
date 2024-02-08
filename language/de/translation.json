@@ -74,5 +74,23 @@
   "light": "Streulicht",
   "self-management": "Selbstmanagement",
   "attention": "Aufmerksamkeit",
-  "clearness": "Klarheit"
+  "clearness": "Klarheit",
+
+  "actNowChapter": "Tu es jetzt",
+  "oneSecChapter": "OneSec",
+  "oneSecChapterText": "One Sec fungiert als Starthilfe um deinen Weg zu einer medienmündigen Person einzuschlagen.",
+
+  "onseSecH1": "Entdecke die App OneSec für bewusste Pausen vor deiner Appbenutzung",
+  "onseSecP1": "One Sec steigert das Bewusstsein und die absichtliche Nutzung durch die Einführung einer Verzögerung von 10 Sekunden, wodurch die sofortige Befriedigung, die mit Social-Media-Apps verbunden ist, unterbrochen wird.",
+  "oneSecCta": "Entdecke OneSec heute",
+
+  "focusModeChapter": "Fokus Modus",
+  "focusModeChapterText": "Der Fokusmodus ist eine Methode, die dir hilft, dich auf eine Aufgabe zu konzentrieren und Ablenkungen zu minimieren. Er hilft dir, deine Aufmerksamkeit zu steuern und zu fokussieren.",
+
+  "focusModeH1": "Entdecke den Fokus Modus für ungestörte Produktivität und Kontrolle",
+  "focusModeP1": "Dein persönliches Werkzeug für ungestörte Produktivität und wohltuende Auszeiten auf dem iPhone! Egal, ob du konzentriert arbeiten, dich entspannen oder einfach den digitalen Trubel ausblenden möchtest – der Fokus-Modus bietet dir die Kontrolle. Hier erfährst du, wie du ihn direkt im Kontrollzentrum aktivierst oder clever planst, damit er sich automatisch zu den Zeiten einschaltet, die für dich am besten passen.",
+  "focusModeCta": "Entdecke den Fokus Modus",
+
+  "actOptionsChapter": "Handlungsoptionen",
+  "actOptionsChapterText": "Ob kurz– oder mittelfristig, hier findest du Handlungstipps um deine Medienmündigkeit zu steigern."
 }
