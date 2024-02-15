@@ -93,3 +93,27 @@ $gap-top: 6rem;
     align-self: center;
   }
 }
+
+.media-header {
+  @include desktop {
+    font-size: 24px !important;
+  }
+  @include xl {
+    font-size: 28px !important;
+  }
+  @include xxl {
+    font-size: 32px !important;
+  }
+}
+
+.media-text {
+  @include desktop {
+    font-size: 14px !important;
+  }
+  @include xl {
+    font-size: 16px !important;
+  }
+  @include xxl {
+    font-size: 18px !important;
+  }
+}

@@ -34,11 +34,11 @@ export default function MediaCompetenceRework() {
           <h3>{t("m-title")}</h3>
         </aside>
         <div className="hero-header">
-          <h1>{t("m-hero-text")}</h1>
+          <h1 className="media-header">{t("m-hero-text")}</h1>
         </div>
         <div className="hero-text text-big" style={{ gridRow: "span 3" }}>
-          <p>{t("m-hero-text1")}</p>
-          <p>{t("m-hero-text2")}</p>
+          <p className="media-text">{t("m-hero-text1")}</p>
+          <p className="media-text">{t("m-hero-text2")}</p>
         </div>
         <div className="hero-visual">
           <Spot />
