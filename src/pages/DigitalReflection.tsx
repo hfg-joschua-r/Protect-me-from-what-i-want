@@ -62,7 +62,7 @@ export default function DigitalReflection() {
     <>
       <motion.div className="hero-container" {...animation}>
         <aside className="left-col" style={{ gridRow: "2" }}>
-          <h3>Digitale Reflektion</h3>
+          <h3>{t("digital-reflection-title")}</h3>
         </aside>
         <div className="hero-header">
           <h1>{t("digitalReflectionH1")}</h1>
@@ -136,7 +136,7 @@ export default function DigitalReflection() {
                   onClick={() => handleShare("link")}
                   style={{ letterSpacing: "2.4px;" }}
                 >
-                  Share Link
+                  {t("share-link")}
                 </div>
                 {/* <div
                   onClick={() => handleShare("whatsapp")}

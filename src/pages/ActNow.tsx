@@ -225,7 +225,7 @@ export default function ActNow() {
       </motion.div>
       <motion.div className="container" {...animation} id="scroll-to">
         <aside className="left-col">
-          <h3>{t("oneSecChapter")}</h3>
+          <h3>OneSec</h3>
           <p>{t("oneSecChapterText")}</p>
         </aside>
 
