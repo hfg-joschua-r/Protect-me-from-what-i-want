@@ -4,13 +4,11 @@
   "navTab3": "Act now",
   "navTab4": "Who else?",
   "navTab5": "Focus mode",
-
   "interfaceSection1h1": "Our love for consuming media is an evolution masterpiece, seamlessly connected with the primal reward circuit of our brains.",
   "interfaceSection1content": "The simple expectation of personal information triggers a dopamine rush that sparks our passion for new and exciting things. And precisely this is what all the big players in the app industry capitalize on, keeping us hooked and engaged in the game.",
   "magicMaybe": "'The Magic Maybe' a concept by Robert Sapolsky, reveals the magnetic appeal of incomplete information, like a partially visible message or an incoming notification's 'ping' triggering heightened curiosity and driving impulsive smartphone use in the quest for anticipated rewards.",
   "focusMode": "Learn more about the focus mode",
   "oneSec": "Learn more about One Sec",
-
   "digitalReflectionH1": "Step into the Digital Detox Reflection Zone",
   "digitalReflectionP1": "A space where we navigate the art of conscious living in a digital world. Join us on this mindful journey as we unplug and reflect on the tapestry of our digital experiences. It's a movement to amidst the noise of screen time, sharing insights and creating a collective atmosphere of mindful connection and balance. Take a pause, reflect, and let's flow with the positive energy. Never stop questioning!",
   "digitalReflectionP2": "Never stop questioning!",
@@ -20,7 +18,6 @@
   "question4": "What activities or hobbies have you rediscovered or experienced more intensely since you have become more conscious of your online time?",
   "question5": "How do you deal with digital distractions when you're trying to focus on a specific task?",
   "question6": "Have you noticed that you are more productive or less stressed when you are more conscious of your online time?",
-
   "mediaCompetenceH1": "Discover the spotlight theory to gain media-literacy",
   "mediaCompetenceContent1": "Let's rethink and redefine our approach to technologies and digital media. Being media-literacy (1) means mastering media while letting them have minimal control over us.",
   "mediaCompetenceContent2": "In order to cultivate media literacy, it is crucial to raise awareness of our actions, sharpen our inner and outer perceptions and develop strong self-management skills. This requires time, patience and occasional quiet moments in these fast-paced times.",
@@ -42,12 +39,10 @@
   "tab1Content2": "The increase in performance through attentive concentration results from the synchronization of the neurological brainwave frequencies in different areas of the brain to a uniform level or the same wavelength. When these frequency ranges come to a common wavelength, more of the neurotransmitter acetylcholine is released. This promotes communication and the exchange of information between the neural pathways. While we are concentrated or immersed in a deeper thinking phase during a task, this increases our abilities in areas such as logical thinking, abstraction and memory",
   "tab2Content": "Creativity is the art of living with which we approach challenges. Being creative means coming up with imaginative solutions to problems, finding answers to relevant questions in everyday life. The answers, solutions and ideas that we find in creative moments of reflection / introspection give us a sense of control, because they help us to master life. Creative solutions strengthen our self-confidence, make us feel confident and calm our stress system.",
   "tab3Content": "Clarity is of great importance for our cognitive processes. Clear thoughts improve our attention, concentration, perception and memory. Through clarity we learn to deal with the accelerated age in order to use technology skillfully and to our advantage.",
-
   "intro-h2": "Do you feel overwhelmed, distracted or disconnected when using digital media?",
   "intro-p": "We too. The most important thing when dealing with media is to be aware of your interaction with it. Media literacy is extremely important when dealing with digital technologies. In order to achieve the greatest effect of media literacy, we need to recognize and be aware of ourselves, look inwards and have good self-management skills. That’s what this website is about.",
   "consuming-media-h2": "Our love for consuming media is an evolution masterpiece, seamlessly connected with the primal reward circuit of our brains.",
   "consuming-media-p": "The simple expectation of personal information triggers a dopamine rush that sparks our passion for new and exciting things. And precisely this is what all the big players in the app industry capitalize on, keeping us hooked and engaged in the game.",
-  "imformation-realm-p": "The Hook Model explains a cycle employed by smartphone apps to captivate users. By triggering actions, delivering variable rewards, and encouraging user investment, a loop is created, fostering a deep connection between the user and the app.",
   "information-realm-p1": "1. Trigger: Externe und interne Anreize und Auslöser, die den User zur Nutzung deines Produktes führen.",
   "information-realm-p2": "2. Action: Die konkrete Aktion des Nutzers in Erwartung einer unmittelbaren Belohnung bzw. Mehrwerts.",
   "information-realm-p3": "3.Variable Reward: Belohnung des Nutzers durch die Bereitstellung eines variablen Mehrwerts.",
@@ -56,7 +51,6 @@
   "hook-model-h2": "Hook Model explains how the app industry keeps us hooked.",
   "hook-model-p": "The Hook Model explains a cycle employed by smartphone apps to captivate users. By triggering actions, delivering variable rewards, and encouraging user investment, a loop is created, fostering a deep connection between the user and the app.",
   "one-sec-h2": "One Sec enhances awareness and intentional usage by introducing a 10-second delay/friction, disrupting the instant gratification associated with social media apps.",
-
   "actNowH2": "Let’s get on that journey of improvement",
   "actNowP1": "Discover methods and thought models that not only support you in the here and now, but also improve your relationship with digital media in the long term.",
   "actNowP2": "Improve your relationship with digital media",
@@ -68,11 +62,11 @@
   "pauses": "Pauses",
   "mindfulness": "Mindfulness",
   "stimuli": "Interfering stimuli",
-
   "focus": "Focus",
   "concentration": "Concentration",
   "light": "Scattered light",
   "self-management": "Self-management",
   "attention": "Attention",
-  "clearness": "Clearness"
+  "clearness": "Clearness",
+  "imformation-realm-p": "The Hook Model explains a cycle employed by smartphone apps to captivate users. By triggering actions, delivering variable rewards, and encouraging user investment, a loop is created, fostering a deep connection between the user and the app."
 }

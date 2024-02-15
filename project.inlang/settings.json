@@ -1,19 +1,18 @@
 {
-	// official schema ensures that your project file is valid
-	"$schema": "https://inlang.com/schema/project-settings",
-	// the "source" language tag that is used in your project
-	"sourceLanguageTag": "en",
-	// all the language tags you want to support in your project
-	"languageTags": ["en", "de"],
-	"modules": [
-		"https://cdn.jsdelivr.net/npm/@inlang/plugin-json@4/dist/index.js",
-			"https://cdn.jsdelivr.net/npm/@inlang/plugin-t-function-matcher@latest/dist/index.js",
-			"https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@latest/dist/index.js"
-
-	], // or use another storage module: https://inlang.com/c/plugins (i18next, json, inlang message format)
-		"plugin.inlang.i18next": {
-	"pathPattern": 	"/language/{languageTag}/translation.json"}
+  "$schema": "https://inlang.com/schema/project-settings",
+  "sourceLanguageTag": "de",
+  "languageTags": ["en", "de"],
+  "modules": [
+    "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@latest/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-missing-translation@latest/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-empty-pattern@latest/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-without-source@latest/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-identical-pattern@latest/dist/index.js"
+  ],
+  "messageLintRuleLevels": {
+    "messageLintRule.inlang.missingTranslation": "error"
+  },
+  "plugin.inlang.i18next": {
+    "pathPattern": "./public/language/{languageTag}/translation.json"
+  }
 }
-
-
-

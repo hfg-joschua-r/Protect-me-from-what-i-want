@@ -44,10 +44,10 @@ export default function FocusMode() {
       </motion.div>
       <motion.div className="container" id="scroll-to">
         <aside className="left-col" style={{ gridRow: "2" }}>
-          <h3>Schritt 1</h3>
+          <h3>{t("step-1")}</h3>
         </aside>
         <div className="hero-header">
-          <h1>Bestehenden Fokus Modus aktivieren</h1>
+          <h1>{t("instruction-01")}</h1>
         </div>
         <div className="hero-text">
           <p>
@@ -57,14 +57,12 @@ export default function FocusMode() {
               href="https://support.apple.com/de-de/guide/iphone/aside/iph7c412b4db/17.0/ios/17.0"
               target="_blank"
             >
-              Öffne das Kontrollzentrum
+              {t("insturct-text1")}
             </a>
-            , tippe auf „Fokus“ und anschließend auf den Fokus, der aktiviert
-            werden soll (beispielsweise „Nicht stören“).
+            {t("instruct-text2")}
             <br />
             <br />
-            Hinweis: Ist bereits ein anderer Fokus aktiv, wird dieser
-            deaktiviert, wenn du auf den neuen Fokus tippst.
+            {t("instruct-text3")}
           </p>
         </div>
         <div className="hero-visual-img">
@@ -73,35 +71,30 @@ export default function FocusMode() {
       </motion.div>
       <motion.div className="container">
         <aside className="left-col" style={{ gridRow: "2" }}>
-          <h3>Schritt 2</h3>
+          <h3>{t("step-2")}</h3>
         </aside>
         <div className="hero-header">
-          <h1>Neuen Fokus Modus erstellen</h1>
+          <h1>{t("instruction-02")}</h1>
         </div>
         <div className="hero-text">
           <p>
-            Wenn du dich auf eine Aktivität konzentrieren möchtest, die keiner
-            der bereitgestellten Fokus-Optionen entspricht, kannst du einen
-            eigenen Fokus erstellen. <br />
+            {t("instruct2-text1")} <br />
             <br />
             <br />
             <br />
-            1 - Wähle „Einstellungen“ & dann „Fokus“.
+            {t("instruct2-text2")}
             <br />
             <br />
-            2 - Tippe auf die Taste „Hinzufügen“ oben rechts und anschließend
-            auf „Eigener“.
+            {t("instruct2-text3")}
             <br />
             <br />
-            3 - Gib einen Namen für deinen Fokus ein und tippe auf den
-            Zeilenschalter.
+            {t("instruct2-text4")}
             <br />
             <br />
-            4 - Wähle eine Farbe und ein passendes Symbol aus und tippe auf
-            „Weiter“.
+            {t("instruct2-text5")}
             <br />
-            <br />5 - Tippe auf „Fokus anpassen“ und lege die Optionen für
-            deinen eigenen Fokus fest.
+            <br />
+            {t("instruct2-text6")}
           </p>
         </div>
         <div className="hero-visual-img">
