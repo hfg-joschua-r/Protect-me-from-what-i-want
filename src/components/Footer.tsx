@@ -1,6 +1,8 @@
+import { useTranslation } from "react-i18next";
 import "../scss/PageLayout.scss";
 
 export default function Footer() {
+  const { t } = useTranslation();
   return (
     <footer>
       <div className="footer-column">

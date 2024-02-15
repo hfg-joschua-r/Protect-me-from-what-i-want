@@ -1,6 +1,8 @@
+import { useTranslation } from "react-i18next";
 import "../scss/PageLayout.scss";
 
 export default function Impressum() {
+  const { t } = useTranslation();
   return (
     <div className="Imprint-Datapolicy">
       <h1>{t("imprint-title")}</h1>

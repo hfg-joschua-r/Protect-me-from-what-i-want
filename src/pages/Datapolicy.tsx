@@ -1,4 +1,7 @@
+import { useTranslation } from "react-i18next";
+
 export default function Datapolicy() {
+  const { t } = useTranslation();
   return (
     <div className="Imprint-Datapolicy">
       <h1>{t("data-policy-header")}</h1>
